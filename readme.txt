@@ -1,3 +1,4 @@
 github is a distributed version control system.
-github is free software.
+github is free software distributed under the GPL.
 gitbub help we software engineers a lot.
+
